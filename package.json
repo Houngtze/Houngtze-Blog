@@ -1,0 +1,16 @@
+{
+  "name": "vuepress-master",
+  "version": "1.0.0",
+  "description": "for my blog demo",
+  "main": "index.js",
+  "author": "weihongzhe",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
