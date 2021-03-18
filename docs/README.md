@@ -1,9 +1,10 @@
 ---
 home: true
-heroImage: https://dfairy-1258930237.cos.ap-shanghai.myqcloud.com/test.png
+heroImage: http://images.bighongzhe.info/2021-03-04.jpg
 actionText: Get Started →
-actionLink: /guide/
-footer: MIT Licensed | Copyright © 2021-present Houngtze
+actionLink: /accumulate/
+footer: MIT Licensed | Copyright © 2021-present Houngtze | follow:-dfairy's blog-
+
 ---
 
 
